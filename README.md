@@ -1,2 +1,2 @@
 # Object-Detection-openCV
-Pyhton project using openCV library for object detection
+Pyhton project using openCV and cvlib library for object detection
